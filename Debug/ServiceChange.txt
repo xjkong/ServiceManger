@@ -1,0 +1,21 @@
+Service: [test1] |Display name [test123] Created! 
+Service: [test1] Display name: [test123] |State changes to START_PENDING; 
+Service: [test1] Display name: [test123] |State changes to RUNNING; 
+Service: [test1] |Display name [test123] Deleted
+Service: [2345PicSvc] |Display name [2345看图王核心服务] Deleted
+Service: [2345PicSvc] |Display name [2345看图王核心服务] Created! 
+Service: [2345PicSvc] Display name: [2345看图王核心服务] |State changes to RUNNING; |StartType changes to DEMAND_START; 
+Service: [2345PicSvc] Display name: [2345看图王核心服务] |StartType changes to AUTO_START; 
+Service: [WinHttpAutoProxySvc] Display name: [WinHTTP Web Proxy Auto-Discovery Service] |State changes to STOPPED; 
+Service: [2345PinyinSvc] Display name: [2345王牌输入法核心服务] |State changes to RUNNING; |StartType changes to AUTO_START; 
+Service: [HaoZipSvc] |Display name [好压安全中心] Deleted
+Service: [HaoZipSvc] |Display name [好压安全中心] Created! 
+Service: [HaoZipSvc] Display name: [好压安全中心] |State changes to RUNNING; 
+Service: [MMCSS] Display name: [Multimedia Class Scheduler] |State changes to STOPPED; 
+Service: [MMCSS] Display name: [Multimedia Class Scheduler] |State changes to RUNNING; 
+Service: [MMCSS] Display name: [Multimedia Class Scheduler] |State changes to STOPPED; 
+Service: [MMCSS] Display name: [Multimedia Class Scheduler] |State changes to RUNNING; 
+Service: [MMCSS] Display name: [Multimedia Class Scheduler] |State changes to STOPPED; 
+Service: [AeLookupSvc] Display name: [Application Experience] |State changes to STOPPED; 
+Service: [MMCSS] Display name: [Multimedia Class Scheduler] |State changes to RUNNING; 
+Service: [MMCSS] Display name: [Multimedia Class Scheduler] |State changes to STOPPED; 
